@@ -25,7 +25,7 @@
         $descricao      = $dados_detalhe["descricao"];
         $codigobarra    = $dados_detalhe["codigobarra"];
         $tempoentrega   = $dados_detalhe["tempoentrega"];
-        $precorevenda     = $dados_detalhe["precorevenda"];
+        $precorevenda   = $dados_detalhe["precorevenda"];
         $precounitario  = $dados_detalhe["precounitario"];
         $estoque        = $dados_detalhe["estoque"];
         $imagemgrande   = $dados_detalhe["imagemgrande"];
@@ -37,9 +37,8 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Curso PHP Integração com MySQL</title>
+        <title>Vitrine by vinilean</title>
         
-        <!-- estilo -->
         <link href="_css/estilo.css" rel="stylesheet">
         <link href="_css/produto_detalhe.css" rel="stylesheet">
     </head>
