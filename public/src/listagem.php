@@ -17,9 +17,8 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Curso PHP Integração com MySQL</title>
+        <title>Vitrine by vinilean</title>
         
-        <!-- estilo -->
         <link href="_css/estilo.css" rel="stylesheet">
         <link href="_css/produtos.css" rel="stylesheet">
     </head>
