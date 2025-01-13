@@ -8,11 +8,11 @@ O BD Andes foi encontrado na web, apenas utilizei para esse fim;
 - Foi adicionado sistema de login utilizando user e senha do BD andes.sql, na table "clientes" .Aplçicação não possui cadastro pela interface. Checando se existe o login no banco;
 - Logins na imagem ao final do README caso interessado em usar, sem setar o BD.
 
-#Interface XAMPP:
+# Interface XAMPP:
 ![image](https://github.com/user-attachments/assets/8a3f66cd-5bc0-404a-8cac-b24ca5102dd9)
 
-#Interface andes.sql no phpMyAdmin:
+# Interface andes.sql no phpMyAdmin:
 ![image](https://github.com/user-attachments/assets/bf52f18e-8ac4-4faf-a3f9-9246d652253f)
 
-#Logins:
+# Logins:
 ![image](https://github.com/user-attachments/assets/8b7630bb-8c93-4d09-b971-37f65b71e575)
