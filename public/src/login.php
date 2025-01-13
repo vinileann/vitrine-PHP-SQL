@@ -30,7 +30,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Vitrine do vinilean</title>
+        <title>Vitrine by vinilean</title>
         
         <!-- estilo -->
         <link href="_css/estilo.css" rel="stylesheet">
