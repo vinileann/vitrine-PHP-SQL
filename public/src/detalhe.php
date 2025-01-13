@@ -1,5 +1,10 @@
 <?php require_once("../../conexao/conexao.php"); ?>
 <?php
+    session_start();
+    if ( !isset($_SESSION["user_portal"]) ) {
+        header("location:login.php");
+    }
+
     //testar parametro
     if( isset($_GET["codigo"]) ) {
         $produtoID= $_GET["codigo"];
